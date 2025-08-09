@@ -1,6 +1,6 @@
 # Ifraheem-Hassan
 
-# 👋 Hi, I'm [Ifraheem Hassan]  
+# 👋 Hi, I'm Ifraheem Hassan
 
 💼 **OSINT & Threat Intelligence Team Lead** | **5+ Years in Cybersecurity**
 🛡 Pentester | Offensive Security | Security Researcher  
