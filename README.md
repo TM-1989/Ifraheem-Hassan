@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ifraheem Hassan
 
-💼 **OSINT & Threat Intelligence Team Lead** | **5+ Years in Cybersecurity**
+💼 **OSINT & Threat Intelligence Team Lead** | **5+ Years in Cybersecurity** | 
 🛡 Pentester | Offensive Security | Security Researcher  
 🚀 Creator of **Leaksniffer**, Threat Hunter, and other advanced security tools  
 
